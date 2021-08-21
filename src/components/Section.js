@@ -92,7 +92,7 @@ const RightButton = styled(LeftButton)`
 const DownArrow = styled.img`
     margin-top: 20px;
     height: 40px;
-    margin-left: 253px;
+    margin-left: 40%;
     animation: animationDown infinite 1.5s;
     oveflow-x: hidden;
 `;

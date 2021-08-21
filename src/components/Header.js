@@ -96,7 +96,7 @@ const RightMenu = styled.div`
     }
     @media(max-widtH: 600px) {
        a{
-            font-size: 12px;
+            font-size: 10px;
        } 
     }
 `;
