@@ -94,6 +94,11 @@ const RightMenu = styled.div`
         text-transform: uppercase;
         margin-right: 10px;
     }
+    @media(max-widtH: 600px) {
+       a{
+            font-size: 10px;
+       } 
+    }
 `;
 
 const CustomMenu = styled(MenuIcon)``;
